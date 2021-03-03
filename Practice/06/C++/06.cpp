@@ -5,6 +5,7 @@ using namespace std;
 
 
 int main() {
+    setlocale(LC_ALL, "Russian");
 
     int a, b, c;
     double D, x1, x2, x;
@@ -65,3 +66,4 @@ int main() {
     }
     }
 }
+//Выполнил Синчак С.С.

@@ -1,3 +1,4 @@
+﻿
 #include <iostream>
 
 using namespace std;
@@ -17,4 +18,7 @@ int main()
     cout << "Переменные типа double:\n" << z << "\n" << k << "\n" << "\n";
     
     cout << "В результате переменные типа int отбрасывают дробные значения \n" << "\n";
+    
+	return 0;
 }
+//Выполнил Синчак С.С.
