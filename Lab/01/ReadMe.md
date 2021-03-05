@@ -42,7 +42,7 @@
 >https://api.openweathermap.org/data/2.5/onecall?lat=44.95719&lon=34.11079&exclude=hourly&appid=efb20d329caaf24c185748f1042f4a17
 
 В результате сервис дал ответ в формате JSON.
-![*Рис.1. Ответ сервиса OpenWeatherMap*](Pic/Pic1.png)
+![*Рис.1. Ответ сервиса OpenWeatherMap*](./Pic/Pic1.png)
 
 Для лучшего чтения полученного JSON ответа можно воспользоваться сервисом [*JSON Viewer*](https://codebeautify.org/jsonviewer).
 
@@ -51,7 +51,7 @@
 >http://worldtimeapi.org/api/timezone/Europe/Simferopol
 
 В результате я получил ответ в формате JSON.
-![*Рис.2. Ответ сервиса WorldTimeAPI*](Pic/Pic2.png)
+![*Рис.2. Ответ сервиса WorldTimeAPI*](./Pic/Pic2.png)
 ### 4. Полный исходный код серверного приложения.
 ### 5. Полный исходный код клиентского приложения.
 ### 8. Скриншот графического интерфейса клиентского приложения.
