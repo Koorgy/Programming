@@ -1,3 +1,4 @@
 ﻿  C++.cpp
-D:\AKorgy\Study\Programming\Lab\01\C++\C++.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
-  C++.vcxproj -> D:\AKorgy\Study\Programming\Lab\01\C++\Debug\C++.exe
+D:\AKorgy\Study\Programming\Lab\01\C++\C++.cpp(84): warning C4715: get_hourly_request: значение возвращается не при всех путях выполнения
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+D:\AKorgy\Study\Programming\Lab\01\C++\Debug\C++.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
